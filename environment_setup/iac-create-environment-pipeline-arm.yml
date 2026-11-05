@@ -2,7 +2,7 @@ pr: none
 trigger: none
 
 variables:
-- group: Laboratorio4
+- group: Laboratorio4-wsh
 
 stages:
 - stage: 'Dev'
