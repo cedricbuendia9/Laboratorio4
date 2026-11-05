@@ -1,4 +1,6 @@
+import os
 from model import create_model
+
 from sklearn.datasets import load_diabetes
 
 
