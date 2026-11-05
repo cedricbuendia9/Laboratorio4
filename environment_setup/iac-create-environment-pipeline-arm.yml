@@ -1,5 +1,12 @@
-pr: none
-trigger: none
+trigger:
+  branches:
+    include:
+      - main
+
+pr:
+  branches:
+    include:
+      - main
 
 variables:
 - group: Laboratorio4-wsh
